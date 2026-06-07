@@ -13,7 +13,7 @@ const Footer = () => {
       </p>
 
       <div className="mt-2 flex flex-wrap justify-center items-center gap-2 md:gap-4 text-slate-500 px-4 text-xs md:text-sm">
-        <a href="https://github.com/bhumikajain-hash" target="_blank" className="hover:text-white transition-colors whitespace-nowrap">GitHub Repository</a>
+        <a href="https://github.com/bhumikajain-hash/Flood-Guard" target="_blank" className="hover:text-white transition-colors whitespace-nowrap">GitHub Repository</a>
         
         <span>|</span>
         <a href="mailto:jainbhumika666@gmail.com" className="hover:text-white transition-colors whitespace-nowrap">jainbhumika666@gmail.com</a>
